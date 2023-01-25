@@ -36,7 +36,9 @@ export const todoApi = createApi({
       }),
       invalidatesTags: ['Todos']
     })
-  })
+  }),
+  // this func will refetch the todos when page focused
+  refetchOnFocus: true
 })
 
 // the use hook below is automaticlly created by reduk toolkit, you just can see the template
