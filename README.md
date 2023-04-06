@@ -1,7 +1,7 @@
 # React-Redux-RTK-Query
 A boilerplate Simple Todo App created with React Redux and RTK query
 
-You can see the web on: **https://react-redux-rtk-queryy.vercel.app/**
+You can see the web on: **https://react-redux-rtk-query.netlify.app/**
 
 But, in this project, my focus is on RTK Query not on the state slice or reducers, the reducers in this project just example how you put the reducer together with api made using RTK Query
 
